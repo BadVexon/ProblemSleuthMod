@@ -1,0 +1,24 @@
+{
+  "theSleuth:QuestOfSpirit": {
+    "NAME": "QUEST OF SPIRIT",
+    "DESCRIPTIONS": [
+      "You find yourself in a (different) strange realm. There are four warring factions who will grant a boon to a CHAMPION OF THE SPIRE such as yourself. Your QUEST OF SPIRIT begins by aligning thyself with either the Elves, Hogs, Weasels or Clowns...",
+      "Just aligning thyself with the elves was enough, apparently. Your QUEST OF SPIRIT has concluded.",
+      "The Hogs want you to steal the coveted SALTED MELONS that the boss apparently has. The Hogs will let you keep two(2) as a TOKEN OF GRATITUDE. Slay the Act 1 boss to complete your QUEST OF SPIRIT.",
+      "The WEASEL KING requires a show of force to strike fear into the local revolutionary Hogs who keep stealing SALTED MELONS. Oh dear. For your troubles, you will receive one (1) SWORD OF SCALING. Slay the Act 2 boss to complete your QUEST OF SPIRIT.",
+      "The CLOWN PONTIFICATE only hands out boons to those who challenge the greatest enemies. He taunts you with his HAMPER OF SECRET DECEITS. Slay the Act 3 boss to complete your QUEST OF SPIRIT.",
+      "You don't have any time for this kingdom nonsense. NL Even though the Elf upgrade is literally free. NL There's no secret benefit to doing this. NL NL Honestly.",
+      "The Hogs want you to steal the coveted SALTED MELONS that the boss apparently has. The Hogs will let you keep one(1) as a TOKEN OF GRATITUDE. Slay the Act 1 boss to complete your QUEST OF SPIRIT.",
+      "The WEASEL KING requires a show of force to strike fear into the local revolutionary Hogs who keep stealing SALTED MELONS. Oh dear. His Majesty will capriciously only forego one (1) SWORD OF MINOR SCALING. Slay the Act 2 boss to complete your QUEST OF SPIRIT."
+    ],
+    "OPTIONS": [
+      "[Elves] Raise your Pulchritude, Vim and Imagination to #b4.",
+      "[Hogs] #gGain #ga #gspecial #gHealth #grelic #rupon #rslaying #rthe #ract #r1 #rBoss.",
+      "[Weasels] #gGain #ga #gspecial #gScaling #grelic #rupon #rslaying #rthe #ract #r2 #rBoss.",
+      "[Clowns]  #gGain #ga #gsomewhat #gstupid #grelic #rupon #rslaying #rthe #ract #r3 #rBoss.",
+      "[Leave] Gain nothing.",
+      "[Leave]",
+      "[Elves] Raise your Pulchritude, Vim and Imagination to #b3."
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "theSleuth:NoBuffs": {
+    "NAME": "Buffs Banned",
+    "DESCRIPTIONS": [
+      "You cannot buff yourself for #b",
+      " cannot buff itself for #b",
+      " turns.",
+      " turn."
+    ]
+  },
+  "theSleuth:AutoParry": {
+    "NAME": "AUTO-PARRY!",
+    "DESCRIPTIONS": [
+      "The next time you lose HP this combat, or at the end of combat, gain #b1 #yVim.",
+      "The next #b",
+      " times you lose HP this combat, gain #b1 #yVim. At the end of combat, gain #b1 #yVim for each Auto-Parry left."
+    ]
+  },
+  "theSleuth:DiscardAllRetainCardsAtEndOfTurn": {
+    "NAME": "Retain-B-Gone",
+    "DESCRIPTIONS": [
+      "At the end of your turn, discard your hand."
+    ]
+  },
+  "theSleuth:ForceDeckPower": {
+    "NAME": "Forced Deck",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b1 card, then put #b1 card from your hand on top of your draw pile.",
+      "At the start of your turn, draw #b",
+      " cards, then put #b",
+      " cards from your hand on top of your draw pile."
+    ]
+  },
+  "theSleuth:DuplicatePower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "The next #yPulchritude or #yVim card you play is copied and added to your hand.",
+      "The next #b",
+      " #yPulchritude or #yVim cards you play are copied and added to your hand."
+    ]
+  },
+  "theSleuth:CandidPower": {
+    "NAME": "Candid Bullets",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yImagination."
+    ]
+  },
+  "theSleuth:GummyWormZombiePower": {
+    "NAME": "Gummy Worm Zombie",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yTemporary_HP for each card in your hand."
+    ]
+  },
+  "theSleuth:NoMoreMalleable": {
+    "NAME": "No More Malleable",
+    "DESCRIPTIONS": [
+      "You cannot gain #yMalleable."
+    ]
+  },
+  "theSleuth:TootsieRollFrankensteinPower": {
+    "NAME": "Tootsie Roll Frankenstein",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yImagination card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "theSleuth:ReflectDamagePower": {
+    "NAME": "The Actual Parry",
+    "DESCRIPTIONS": [
+      "Reflect all damage taken this turn."
+    ]
+  },
+  "theSleuth:DrainStatsPower": {
+    "NAME": "Drained Stats",
+    "DESCRIPTIONS": [
+      "Your stats are #b0 this turn."
+    ]
+  },
+  "theSleuth:ReocurringDamagePower": {
+    "NAME": "Investment Beam",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "theSleuth:SilencedBuffsPower": {
+    "NAME": "Demoted - Buffs",
+    "DESCRIPTIONS": [
+      " cannot gain Strength above 0."
+    ]
+  },
+  "theSleuth:SilencedDebuffsPower": {
+    "NAME": "Demoted - Debuffs",
+    "DESCRIPTIONS": [
+      " cannot debuff you."
+    ]
+  },
+  "theSleuth:BuffHex": {
+    "NAME": "Hexed - Buffs",
+    "DESCRIPTIONS": [
+      "You cannot buff yourself for #b",
+      " cannot buff itself for #b",
+      " turns.",
+      " turn."
+    ]
+  },
+  "theSleuth:RetainHand": {
+    "NAME": "Retain Hand",
+    "DESCRIPTIONS": [
+      "#yRetain your hand this turn.",
+      "#yRetain your hand for #b",
+      " turns."
+    ]
+  },
+  "theSleuth:FudgeDeckPower": {
+    "NAME": "Fudge Deck",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " card and discard #b",
+      " card.",
+      " cards and discard #b",
+      " cards."
+    ]
+  }
+}

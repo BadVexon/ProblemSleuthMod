@@ -1,0 +1,87 @@
+{
+  "theSleuth:Typewriter": {
+    "NAME": "Typewriter",
+    "FLAVOR": "Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels.",
+    "DESCRIPTIONS": [
+      "When a card #yPurges, gain #b1 #yTemp. #yHP and ALL enemies lose #b1 #yStrength this turn."
+    ]
+  },
+  "theSleuth:JammedPrinter": {
+    "NAME": "Jammed Printer",
+    "FLAVOR": "It's stuck!",
+    "DESCRIPTIONS": [
+      "You draw cards from the #b2nd from top position of your draw pile."
+    ]
+  },
+  "theSleuth:CallOfFluthlu": {
+    "NAME": "Call of Fluthlu",
+    "FLAVOR": "Surprisingly surprising.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add a #yDazed into your hand."
+    ]
+  },
+  "theSleuth:BowenStilsonDogg": {
+    "NAME": "Bowen Stilson Dogg",
+    "FLAVOR": "The dreaded bust.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, discard #b1 card from your draw pile."
+    ]
+  },
+  "theSleuth:JesterOfEncumbrance": {
+    "NAME": "Jester of Encumbrance",
+    "FLAVOR": "Exiled from CLOWN TERRITORY for the crime of BEING MISPLACED BY THE CLOWN PONTIFICATE.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, choose a card in your draw pile and give it to an enemy. That card is put into your hand when the enemy is slain."
+    ]
+  },
+  "theSleuth:MegatonKey": {
+    "NAME": "Megaton Key",
+    "FLAVOR": "These brass knuckles are so heavy.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. NL Upon pickup, lose your leftmost #b2 relics."
+    ]
+  },
+  "theSleuth:AffinityCrow": {
+    "NAME": "Affinity Crow",
+    "FLAVOR": "Heads will roll.",
+    "DESCRIPTIONS": [
+      "Enemies cannot intend to attack for more than #b30 damage."
+    ]
+  },
+  "theSleuth:ElfEgg": {
+    "NAME": "Elf Eggs",
+    "FLAVOR": "You yearn to crack out the succulent yolk.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, increase your Max HP by #b3."
+    ]
+  },
+  "theSleuth:Spyglass": {
+    "NAME": "Sextant",
+    "FLAVOR": "Useful for sniping.",
+    "DESCRIPTIONS": [
+      "You can see the contents of #y? rooms."
+    ]
+  },
+  "theSleuth:SaltedMelon": {
+    "NAME": "Salted Melon",
+    "FLAVOR": "The tastiest QUEST OF SPIRIT is satisfied.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, increase your Max HP by #b1."
+    ]
+  },
+  "theSleuth:Tectrixcalibur": {
+    "NAME": "Tectrixcalibur",
+    "FLAVOR": "Scaling!",
+    "DESCRIPTIONS": [
+      "Start each combat with #b2 #yStrength and #b1 #yDexterity.",
+      "Start each combat with #b1 #yStrength and #b1 #yDexterity."
+    ]
+  },
+  "theSleuth:HAMPEROFTHEJADEDFOOLSENNUI": {
+    "NAME": "HAMPER OF THE JADED FOOL'S ENNUI",
+    "FLAVOR": "The Clown Pontificate (hereafter: \"CP\") has granted one (1) boon (hereafter: \"the product\") in exchange for the services rendered by you to slay the spire. The product may be leased for up to three combat encounters (hereafter: \"battles\") due to the eventuality in which the merchant (hereafter: \"dead-o\") is murdered. The product will be returned to CP within 3-4 business days.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b10 #yThorns."
+    ]
+  }
+}

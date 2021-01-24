@@ -1,0 +1,54 @@
+[
+  {
+    "PROPER_NAME": "Auto-Parry",
+    "NAMES": [
+      "auto-parry"
+    ],
+    "DESCRIPTION": "At the end of combat or whenever you lose HP, gain #b1 #yVim and lose #b1 #yAuto-Parry."
+  },
+  {
+    "PROPER_NAME": "Mural",
+    "NAMES": [
+      "mural",
+      "murals"
+    ],
+    "DESCRIPTION": "Murals are unplayable status cards that #yRetain and #yExhaust when discarded."
+  },
+  {
+    "PROPER_NAME": "Temporary Imagination",
+    "NAMES": [
+      "temp. imagination",
+      "temp._imagination"
+    ],
+    "DESCRIPTION": "#yTemporary #yImagination disappears at the end of combat."
+  },
+  {
+    "PROPER_NAME": "Moustache Fire",
+    "NAMES": [
+      "moustache fire",
+      "moustache_fire"
+    ],
+    "DESCRIPTION": "A #b0-Cost #yAttack that puts a copy of itself on top of your draw pile."
+  },
+  {
+    "PROPER_NAME": "Drop",
+    "NAMES": [
+      "drop"
+    ],
+    "DESCRIPTION": "Effect activates whenever this card enters the discard or exhaust pile."
+  },
+  {
+    "PROPER_NAME": "Topdeck",
+    "NAMES": [
+      "topdeck"
+    ],
+    "DESCRIPTION": "Place on top of your draw pile."
+  },
+  {
+    "PROPER_NAME": "Mill",
+    "NAMES": [
+      "mill"
+    ],
+    "DESCRIPTION": "Discard an amount of cards from the top of your draw pile."
+  }
+]
